@@ -3,4 +3,9 @@ This is a simple readme file.
 Adding line.
 
 Add another line to the file!
-This is another line added from git. 
+This is another line added from git.
+
+#Development Environment
+
+Make sure you have JS available.
+Run index.html in browser.
